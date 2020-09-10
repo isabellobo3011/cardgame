@@ -23,7 +23,7 @@ Activist, socially involved and soc media aware, familiar with bitcoin to a cert
 2. Preparatory: benchmark ./t/btc, deliver measurements and correct texts in a number of iterations
 3. Proof extended knowledge in the whole spectrum of open public blockchain field, focussed on bitcoin?
 4. Chart target groups and measure results in trying to address them. Mapping which target groups we distinguish and which we can best focus on
-
+5. .....
 
 ## Planning
 On a weekly basis trying to achieve results:
